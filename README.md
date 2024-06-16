@@ -13,8 +13,14 @@ Build some tracking system inlcude: bird, object, tiger, walking people
 ## Tiger Velocity Tracking
 ![img_3.png](img_3.png)
 
-## Walker People Tracking
+## Walker Tracking
 ![img_4.png](img_4.png)
 
-## Walker People Velocity Tracking 
+## Walker Velocity Tracking 
 ![img_5.png](img_5.png)
+
+## Object Tracking
+![img_7.png](img_7.png)
+
+## Object Velocity Tracking
+![img_6.png](img_6.png)
